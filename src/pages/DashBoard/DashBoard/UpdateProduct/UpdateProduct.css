@@ -1,0 +1,11 @@
+
+.updateProduct form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.updateProduct form input{
+    /* width: 50%; */
+    margin-bottom: 15px;
+}
